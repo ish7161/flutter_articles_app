@@ -18,7 +18,7 @@ A simple Flutter application to fetch and display articles using `jsonplaceholde
 
 ### 📰 Articles List
 
-![Articles List](screenshots/articles_list.png)
+![Articles List]https://github.com/ish7161/flutter_articles_app/blob/main/article_detail.jpeg
 
 ### 📄 Article Detail
 
@@ -38,7 +38,6 @@ A simple Flutter application to fetch and display articles using `jsonplaceholde
 ## 📦 Installation
 
 1️⃣ Clone the repo:
-```bash
 git clone https://github.com/yourusername/flutter_articles_app.git
 2️⃣ Navigate:
 cd flutter_articles_app
