@@ -1,16 +1,48 @@
-# ishika_miglani
+# Flutter Articles App
 
-A new Flutter project.
+A simple Flutter application to fetch and display articles using `jsonplaceholder` API, with a dark aesthetic, animations, and favorites saving using `SharedPreferences`.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+✅ Fetches articles from API  
+✅ Displays in an animated list with a dark theme  
+✅ Detail view with favorite toggle  
+✅ Saves favorites using persistent local storage  
+✅ Pull-to-refresh
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Screenshots
+
+### 📰 Articles List
+
+![Articles List](screenshots/articles_list.png)
+
+### 📄 Article Detail
+
+![Article Detail](screenshots/article_detail.png)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter**
+- **Provider** for state management
+- **SharedPreferences** for local persistence
+- **Git + GitHub** for version control
+
+---
+
+## 📦 Installation
+
+1️⃣ Clone the repo:
+```bash
+git clone https://github.com/yourusername/flutter_articles_app.git
+2️⃣ Navigate:
+cd flutter_articles_app
+3️⃣ Get dependencies:
+flutter pub get
+4️⃣ Run:
+flutter run
