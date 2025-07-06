@@ -19,7 +19,7 @@ A simple Flutter application to fetch and display articles using `jsonplaceholde
 ### 📰 Articles List
 
 
-![Articles List]
+![Articles List]https://github.com/ish7161/flutter_articles_app/blob/main/article_list.jpeg
 
 ### 📄 Article Detail
 
